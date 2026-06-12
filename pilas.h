@@ -2,7 +2,8 @@
 #define PILAS_H
 
 #include "tablero.h"
-#include "juego.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 typedef struct Nodo {
     Tablero* tablero;     

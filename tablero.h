@@ -1,5 +1,8 @@
 #ifndef TABLERO_H
 #define TABLERO_H
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 
 typedef struct{
